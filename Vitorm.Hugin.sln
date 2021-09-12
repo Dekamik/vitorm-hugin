@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vitorm.Hugin.Console", "Vitorm.Hugin.Console\Vitorm.Hugin.Console.csproj", "{F3E6A7B3-C888-4FEF-AA3D-B54D3BDB9B38}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vitorm.Common.Munin", "vitorm-common\Vitorm.Common.Munin\Vitorm.Common.Munin.csproj", "{D6C12F42-CF40-4CE3-8784-EA8273E11710}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{F3E6A7B3-C888-4FEF-AA3D-B54D3BDB9B38}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3E6A7B3-C888-4FEF-AA3D-B54D3BDB9B38}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3E6A7B3-C888-4FEF-AA3D-B54D3BDB9B38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6C12F42-CF40-4CE3-8784-EA8273E11710}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6C12F42-CF40-4CE3-8784-EA8273E11710}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6C12F42-CF40-4CE3-8784-EA8273E11710}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6C12F42-CF40-4CE3-8784-EA8273E11710}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -1,0 +1,3 @@
+[submodule "vitorm-common"]
+	path = vitorm-common
+	url = https://github.com/Dekamik/vitorm-common
