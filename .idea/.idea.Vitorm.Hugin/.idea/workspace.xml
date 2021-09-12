@@ -7,7 +7,7 @@
     <list default="true" id="c7337952-a0d3-4a24-953c-68dd568fc2e7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Vitorm.Hugin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Vitorm.Hugin/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Vitorm.Hugin.Console/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Vitorm.Hugin.Console/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Vitorm.Hugin.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Vitorm.Hugin.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Vitorm.Hugin.Console/Vitorm.Hugin.Console.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Vitorm.Hugin.Console/Vitorm.Hugin.Console.csproj" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,7 +58,7 @@
       <option name="presentableId" value="Default" />
       <updated>1631395671377</updated>
       <workItem from="1631395685211" duration="3515000" />
-      <workItem from="1631446271455" duration="3173000" />
+      <workItem from="1631446271455" duration="6417000" />
     </task>
     <servers />
   </component>
